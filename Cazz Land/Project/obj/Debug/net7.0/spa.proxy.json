@@ -1,8 +1,0 @@
-{
-"SpaProxyServer": {
-"ServerUrl": "https://localhost:44435",
-"LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\rcw81\\Desktop\\G-Reatness\\Project\\Project\\ClientApp\\",
-"MaxTimeoutInSeconds": "120"
-}
-}
