@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OLn1a+Xa9yIrllivRG1PDI6i4qaNl5XscnEe9R/ukCpDybmNMwtY3fSRjWHrR1JBm5HIhd/9Qw6iqoTudPwaPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rcw81\\Desktop\\G-Reatness\\Project\\Project\\Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rcw81\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\rcw81\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\7.0.5\\microsoft.aspnetcore.spaproxy.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
