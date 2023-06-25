@@ -9,17 +9,17 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Project
 build_property.RootNamespace = Project
-build_property.ProjectDir = C:\Users\rcw81\Desktop\G-Reatness\Project\Project\
+build_property.ProjectDir = C:\Users\rcw81\Desktop\G-Reatness\G-Reatness\Cazz Land\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\rcw81\Desktop\G-Reatness\Project\Project
+build_property.MSBuildProjectDirectory = C:\Users\rcw81\Desktop\G-Reatness\G-Reatness\Cazz Land
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/rcw81/Desktop/G-Reatness/Project/Project/Pages/Error.cshtml]
+[C:/Users/rcw81/Desktop/G-Reatness/G-Reatness/Cazz Land/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rcw81/Desktop/G-Reatness/Project/Project/Pages/_ViewImports.cshtml]
+[C:/Users/rcw81/Desktop/G-Reatness/G-Reatness/Cazz Land/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

@@ -2,7 +2,7 @@
 "SpaProxyServer": {
 "ServerUrl": "https://localhost:44435",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\rcw81\\Desktop\\G-Reatness\\Project\\Project\\ClientApp\\",
+"WorkingDirectory": "C:\\Users\\rcw81\\Desktop\\G-Reatness\\G-Reatness\\Cazz Land\\ClientApp\\",
 "MaxTimeoutInSeconds": "120"
 }
 }
