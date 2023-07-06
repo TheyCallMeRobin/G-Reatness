@@ -5,12 +5,11 @@ using Microsoft.AspNetCore.Builder;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Logging.ClearProviders();
-builder.Logging.AddConsole();
+
 builder.Services.AddControllersWithViews();
 builder.Services.AddSwaggerGen();
-builder.Services.AddLogging();
-builder.Services.AddScoped<IAmusementParkService, AmusementParkService>();
+
+builder.Services.AddScoped<IAmusementParkService, AmusementService>();
 
 var app = builder.Build();
 
